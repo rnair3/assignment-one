@@ -28,6 +28,7 @@ class App extends Component{
               <UserOutput name={this.state.username}></UserOutput>
               <UserOutput name={this.state.username}></UserOutput>
               <UserOutput name={this.state.username}></UserOutput>
+              <UserOutput name={this.state.username}></UserOutput>
           </div>
       </div>
     );
